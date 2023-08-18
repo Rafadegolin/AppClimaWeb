@@ -7,7 +7,7 @@
 > Este repositório representa a primeira versão desse app.
 
 # Screenshot
-<img src="Rafadegolin/AppClimaWeb/blob/main/Screenshot.png?raw=true">
+<img src="https://github.com/Rafadegolin/AppClimaWeb/blob/main/Screenshot.png?raw=true">
 
 ## History/Histórico
 Da uma olhada na aba [Releases](https://github.com/Rafadegolin/AppClimaWeb/releases) pra acompanhar as alterações feitas no projeto.
