@@ -16,4 +16,4 @@ Da uma olhada na aba [Releases](https://github.com/Rafadegolin/AppClimaWeb/relea
 [MIT License](./LICENSE) © [Rafael Degolin](https://github.com/Rafadegolin)
 
 ## Clique aqui para jogar:
-[Mario Game](https://rafadegolin.github.io/AppClimaWeb/)
+[App Clima](https://rafadegolin.github.io/AppClimaWeb/)
