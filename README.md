@@ -1,6 +1,6 @@
 # App de clima / Weather App
 
-> Projeto de um aplicativo que mostra o clima da localização pesquisada.
+> Projeto de um aplicativo que mostra o clima da localização pesquisada, através da API do site OpenWeatherMap.
 >
 > Vai te mostrar a temperatura em Graus Celcius, a humidade do ar, a velocidade do vento e também se está de dia ou de noite.
 >
